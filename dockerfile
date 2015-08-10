@@ -1,3 +1,3 @@
 #First Dockerfile
-FROM centos
+FROM ubuntu:14.04
 MAINTAINER lee "antinglizi@163.com"
